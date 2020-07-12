@@ -1,0 +1,3 @@
+- MybatisPlus代码生成器。截止到2020.04.22，如果你要进行代码生成工作，建议使用CodeGenerator。
+这个生成器使用了自定义模板，相较于MpGenerator会有更加强大的表现。因为它在生成的Controller加入了常规的CURD操作，批量操作。
+- 后续MpGenerator将在CodeGenerator表现变得稳定之后，进行移除。
